@@ -5,3 +5,5 @@ if country == "yes":
     print("Go to Thailand")
 else:
     print("Stay at Home")
+    print("Do your Homework")
+    print("cook food")
